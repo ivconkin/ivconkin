@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ivconkin
+- 👋 Hi, I’m @ivconkin - Isaac Conkin
 - 👀 I’m interested in ... Data Analytics
 - 🌱 I’m currently learning ... Data Analytics
 - 💞️ I’m looking to collaborate on ... Data projects
